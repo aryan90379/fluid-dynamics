@@ -1,0 +1,4 @@
+# Requirements for AE 683 Assignment 3: Falkner-Skan Equation Solver
+numpy>=1.20.0
+matplotlib>=3.5.0
+scipy>=1.8.0

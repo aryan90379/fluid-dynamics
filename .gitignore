@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.zip
+generate_submission_pdfs.py

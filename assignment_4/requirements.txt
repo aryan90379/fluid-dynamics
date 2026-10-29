@@ -1,0 +1,4 @@
+# Requirements for AE 683 Assignment 4: Compressible Flow Solvers
+numpy>=1.20.0
+matplotlib>=3.5.0
+scipy>=1.8.0
